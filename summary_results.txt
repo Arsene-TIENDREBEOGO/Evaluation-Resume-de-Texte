@@ -1,0 +1,7 @@
+Extractive Summary:
+Palestinian Authority becomes 123rd member of the International Criminal Court. The move gives the court jurisdiction over alleged crimes in Palestinian territories. Israel and the United States opposed the Palestinians' efforts to join the body.
+Abstractive Summary:
+The Palestinian Authority becomes the 123rd member of the International Criminal Court. The move gives the court jurisdiction over alleged crimes in Palestinian territories. Israel and the United States opposed the Palestinians' efforts to join the body.
+ROUGE Scores (Extractive): {'rouge1': Score(precision=0.5428571428571428, recall=0.5588235294117647, fmeasure=0.5507246376811593), 'rouge2': Score(precision=0.38235294117647056, recall=0.3939393939393939, fmeasure=0.38805970149253727), 'rougeL': Score(precision=0.4857142857142857, recall=0.5, fmeasure=0.49275362318840576)}
+ROUGE Scores (Abstractive): {'rouge1': Score(precision=0.5135135135135135, recall=0.5588235294117647, fmeasure=0.5352112676056339), 'rouge2': Score(precision=0.3611111111111111, recall=0.3939393939393939, fmeasure=0.37681159420289856), 'rougeL': Score(precision=0.4594594594594595, recall=0.5, fmeasure=0.47887323943661975)}
+BLEU Score (Abstractive): 0.2534922091104017
